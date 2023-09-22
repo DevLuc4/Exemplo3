@@ -1,0 +1,29 @@
+3 tipos de comida 
+3 lugares do mundo
+
+fonts.google.com
+
+fonts:
+mais artistica para titulo 
+fonte em negrito e 
+versao regular
+
+# = serve para declarar o id dentro do css, apartir do "#"  vc consegue editar todos os elementos que posuem esse id
+
+alinhamento ou identação de código
+
+cerquilha = #
+
+identificadores precisam ser unicos para cada elemento
+pra mais de um se usa "classe CSS"
+
+Lorem Ipsum
+
+coolors.co
+
+../ para sair da pasta dentro do css
+
+todo texto que vc joga na tag h1 ele é automaticamente dobrado de tamanho 
+
+
+todo element q tem display flex serão organizados um do lado do outro

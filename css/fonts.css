@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "slogan";
+    src: url(../fonts/Calistoga-Regular.ttf);
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/NotoSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/NotoSerif_Condensed-Regular.ttf);
+}
